@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/shop-project/static/css/main.f02eff2c.css",
+    "main.css": "/shop-project/static/css/main.8bbc2581.css",
     "main.js": "/shop-project/static/js/main.13a106d4.js",
     "static/media/clark-street-mercantile-qnKhZJPKFD8-unsplash.jpg": "/shop-project/static/media/clark-street-mercantile-qnKhZJPKFD8-unsplash.56b2e966d8d71bf8f77a.jpg",
     "index.html": "/shop-project/index.html",
-    "main.f02eff2c.css.map": "/shop-project/static/css/main.f02eff2c.css.map",
+    "main.8bbc2581.css.map": "/shop-project/static/css/main.8bbc2581.css.map",
     "main.13a106d4.js.map": "/shop-project/static/js/main.13a106d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.f02eff2c.css",
+    "static/css/main.8bbc2581.css",
     "static/js/main.13a106d4.js"
   ]
 }
